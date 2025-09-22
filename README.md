@@ -37,8 +37,8 @@
 
 ## 📚 Education  
 - 🎓 **B.Tech in Computer Science** – DYPIU, Akurdi  
-- 📘 **Class 11 & 12 (Science)** – Podar International  
-- 🏫 **10th** – Podar International  
+- 📘 **Class 11 & 12 (Science)** – Smt. Nankibai High School  
+- 🏫 **10th** – Podar International  School
 
 ---
 
